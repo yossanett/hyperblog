@@ -1,11 +1,20 @@
 ﻿hola esto es una prueba de archivos github
 se me habia olvidado modificar el documento y vida maestra
 <<<<<<< HEAD
+<<<<<<< HEAD
 Anita platzi tiene 41 años
 Mañana nos enfocaremos en su vida laboral
 =======
+=======
+
+>>>>>>> 05322ba68bbdca834a5b1cf61190a052e12cb704
 Hola, ahora eduardoapenb quiere trabajar con yossanett, porque sé que ella 
 es una gran programadora.
+
+Es algo enojona pero es una buena persona.
+
+Estoy feliz de poder estudiar con ella. (Cambio hecho desde el Laptop, con 
+mi llave SSH generada para mi laptop)
 
 
 Mañana nos enfocaremos en su vida laboral
