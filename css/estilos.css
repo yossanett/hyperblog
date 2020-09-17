@@ -1,7 +1,8 @@
 body{
+    background: #1e1f24;
     columns: #333333;;
     text-align: center;
-    font-family: Courier;
+    font-family: 'Open Sans';
     font-size: 16px;
     margin: 0;
     padding: 0;
@@ -9,12 +10,20 @@ body{
 
 #cabecera
 {
-    background: #33A;
+    background: #3333aa ;
     box-shadow: 0px 2px 20px 0px rgba(0,0,0,0.5);
     color: white;
     font-weight: bold;
     margin: 0;
-    padding: 0.5em;
+    padding: 0.5em 0 0.5em 2em;
+    display: flex;
+    align-items: center;
+}
+
+#cabecera #logo
+{
+    width: 20px;
+    vertical-align: middle;
 }
 
 #cabecera #taglines
@@ -30,6 +39,7 @@ body{
     text-align: left;
     border: 1px solid #DDD;
     margin: 0 auto;
+
 }
 #container h1
 {
@@ -37,5 +47,40 @@ body{
 }
 #post
 {
+    background:  white;
     padding: 1em;
+<<<<<<< HEAD
 }
+
+#image-container{
+    margin: 50px;
+    padding: 0px;
+}
+=======
+
+}
+
+#footer{
+
+    
+    background: rgba(162, 180, 230, 0.644);
+    text-align: center;
+    padding: 10px 10px;
+    
+
+}
+
+#footer-container{
+    width: 70%;
+    padding: 5px 10px ;
+    text-align: center;
+   /* border: 1px solid #DDD;*/
+    margin: 0 auto;
+    height: 20px;
+
+}
+/*
+#footer h1{
+    margin: inherit;
+}*/
+>>>>>>> footer
