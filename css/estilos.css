@@ -30,6 +30,7 @@ body{
     text-align: left;
     border: 1px solid #DDD;
     margin: 0 auto;
+
 }
 #container h1
 {
@@ -38,4 +39,29 @@ body{
 #post
 {
     padding: 1em;
+
 }
+
+#footer{
+
+    
+    background: rgba(162, 180, 230, 0.644);
+    text-align: center;
+    padding: 10px 10px;
+    
+
+}
+
+#footer-container{
+    width: 70%;
+    padding: 5px 10px ;
+    text-align: center;
+   /* border: 1px solid #DDD;*/
+    margin: 0 auto;
+    height: 20px;
+
+}
+/*
+#footer h1{
+    margin: inherit;
+}*/
