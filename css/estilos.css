@@ -1,6 +1,6 @@
 body{
-    background: #1e1f24;
-    columns: #333333;;
+    background: white;
+    columns: red;
     text-align: center;
     font-family: 'Open Sans';
     font-size: 16px;
@@ -49,16 +49,14 @@ body{
 {
     background:  white;
     padding: 1em;
-<<<<<<< HEAD
 }
 
 #image-container{
     margin: 50px;
     padding: 0px;
 }
-=======
 
-}
+
 
 #footer{
 
@@ -83,4 +81,3 @@ body{
 #footer h1{
     margin: inherit;
 }*/
->>>>>>> footer
