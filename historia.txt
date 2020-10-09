@@ -12,7 +12,9 @@ Es algo enojona pero es una buena persona.
 Estoy feliz de poder estudiar con ella. (Cambio hecho desde el Laptop, con 
 mi llave SSH generada para mi laptop)
 
-Master 1git 
+Master 1
+
+Master 2
 
 
 Mañana nos enfocaremos en su vida laboral
