@@ -9,6 +9,7 @@ un blog increible para el curso de Git y Github de platzi
 * Las personalidades multiples del Freddy
 * Creado por el increible Platzi Team
 * Incluye ejemplos en Windows, Linux y Mac
+* Dispobible para todas las edades
 
 
 Y como un amable recordatorio: **Este readme.md es
