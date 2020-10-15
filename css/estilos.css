@@ -49,25 +49,18 @@ body{
 {
     background:  white;
     padding: 1em;
-<<<<<<< HEAD
 }
 
 #image-container{
     margin: 50px;
     padding: 0px;
 }
-=======
 
-}
-
-#footer{
-
-    
-    background: rgba(162, 180, 230, 0.644);
+#footer{   
+    background: #3333aa;
     text-align: center;
     padding: 10px 10px;
-    
-
+    color: white;
 }
 
 #footer-container{
@@ -83,4 +76,3 @@ body{
 #footer h1{
     margin: inherit;
 }*/
->>>>>>> footer
